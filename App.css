@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url('https://media.gettyimages.com/id/1433480484/video/technology-network-background-loopable.jpg?s=640x640&k=20&c=Zf9J_OtWE3I3CMmv330CXCgKkS9EOFW4ihkOyKLiiYg=');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

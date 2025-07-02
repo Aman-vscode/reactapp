@@ -1,0 +1,12 @@
+.link{
+    text-decoration: none;
+    color: azure;
+    padding: 10px;
+    font-weight: 700;
+}
+.link:hover{
+    background-color: azure;
+    color: black;
+    border-radius: 10px;
+    text-decoration: underline;
+}
